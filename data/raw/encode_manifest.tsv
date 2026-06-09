@@ -1,0 +1,147 @@
+experiment	biosample	cell_line	file	href	assembly	genome_annotation	fraction
+ENCSR000CPO	Homo sapiens GM12878 nuclear fraction	GM12878	ENCFF581QEK	https://www.encodeproject.org/files/ENCFF581QEK/@@download/ENCFF581QEK.tsv	GRCh38	V29	nucleus
+ENCSR000CPO	Homo sapiens GM12878 nuclear fraction	GM12878	ENCFF740RLG	https://www.encodeproject.org/files/ENCFF740RLG/@@download/ENCFF740RLG.tsv	GRCh38	V29	nucleus
+ENCSR000CPO	Homo sapiens GM12878 nuclear fraction	GM12878	ENCFF812UDN	https://www.encodeproject.org/files/ENCFF812UDN/@@download/ENCFF812UDN.tsv	GRCh38	V29	nucleus
+ENCSR000CPO	Homo sapiens GM12878 nuclear fraction	GM12878	ENCFF063DIU	https://www.encodeproject.org/files/ENCFF063DIU/@@download/ENCFF063DIU.tsv	GRCh38	V29	nucleus
+ENCSR061SFU	Homo sapiens HepG2 nuclear fraction	HepG2	ENCFF906CSU	https://www.encodeproject.org/files/ENCFF906CSU/@@download/ENCFF906CSU.tsv	GRCh38	V29	nucleus
+ENCSR061SFU	Homo sapiens HepG2 nuclear fraction	HepG2	ENCFF454VRB	https://www.encodeproject.org/files/ENCFF454VRB/@@download/ENCFF454VRB.tsv	GRCh38	V29	nucleus
+ENCSR061SFU	Homo sapiens HepG2 nuclear fraction	HepG2	ENCFF832MBL	https://www.encodeproject.org/files/ENCFF832MBL/@@download/ENCFF832MBL.tsv	GRCh38	V29	nucleus
+ENCSR061SFU	Homo sapiens HepG2 nuclear fraction	HepG2	ENCFF438DJA	https://www.encodeproject.org/files/ENCFF438DJA/@@download/ENCFF438DJA.tsv	GRCh38	V29	nucleus
+ENCSR067UNX	Homo sapiens HT1080 nuclear fraction	HT1080	ENCFF919HMM	https://www.encodeproject.org/files/ENCFF919HMM/@@download/ENCFF919HMM.tsv	GRCh38	V29	nucleus
+ENCSR067UNX	Homo sapiens HT1080 nuclear fraction	HT1080	ENCFF954RAN	https://www.encodeproject.org/files/ENCFF954RAN/@@download/ENCFF954RAN.tsv	GRCh38	V29	nucleus
+ENCSR067UNX	Homo sapiens HT1080 nuclear fraction	HT1080	ENCFF223HZP	https://www.encodeproject.org/files/ENCFF223HZP/@@download/ENCFF223HZP.tsv	GRCh38	V29	nucleus
+ENCSR067UNX	Homo sapiens HT1080 nuclear fraction	HT1080	ENCFF901KKF	https://www.encodeproject.org/files/ENCFF901KKF/@@download/ENCFF901KKF.tsv	GRCh38	V29	nucleus
+ENCSR530NHO	Homo sapiens K562 nuclear fraction	K562	ENCFF523WII	https://www.encodeproject.org/files/ENCFF523WII/@@download/ENCFF523WII.tsv	GRCh38	V29	nucleus
+ENCSR530NHO	Homo sapiens K562 nuclear fraction	K562	ENCFF925UUY	https://www.encodeproject.org/files/ENCFF925UUY/@@download/ENCFF925UUY.tsv	GRCh38	V29	nucleus
+ENCSR530NHO	Homo sapiens K562 nuclear fraction	K562	ENCFF185GZX	https://www.encodeproject.org/files/ENCFF185GZX/@@download/ENCFF185GZX.tsv	GRCh38	V29	nucleus
+ENCSR530NHO	Homo sapiens K562 nuclear fraction	K562	ENCFF849VBY	https://www.encodeproject.org/files/ENCFF849VBY/@@download/ENCFF849VBY.tsv	GRCh38	V29	nucleus
+ENCSR058OSL	Homo sapiens HepG2 nuclear fraction	HepG2	ENCFF103KJN	https://www.encodeproject.org/files/ENCFF103KJN/@@download/ENCFF103KJN.tsv	GRCh38	V29	nucleus
+ENCSR058OSL	Homo sapiens HepG2 nuclear fraction	HepG2	ENCFF603EXV	https://www.encodeproject.org/files/ENCFF603EXV/@@download/ENCFF603EXV.tsv	GRCh38	V29	nucleus
+ENCSR058OSL	Homo sapiens HepG2 nuclear fraction	HepG2	ENCFF668DAS	https://www.encodeproject.org/files/ENCFF668DAS/@@download/ENCFF668DAS.tsv	GRCh38	V29	nucleus
+ENCSR058OSL	Homo sapiens HepG2 nuclear fraction	HepG2	ENCFF680TVV	https://www.encodeproject.org/files/ENCFF680TVV/@@download/ENCFF680TVV.tsv	GRCh38	V29	nucleus
+ENCSR000CPC	Homo sapiens HepG2 nuclear fraction	HepG2	ENCFF230WGM	https://www.encodeproject.org/files/ENCFF230WGM/@@download/ENCFF230WGM.tsv	GRCh38	V29	nucleus
+ENCSR000CPC	Homo sapiens HepG2 nuclear fraction	HepG2	ENCFF192ZUM	https://www.encodeproject.org/files/ENCFF192ZUM/@@download/ENCFF192ZUM.tsv	GRCh38	V29	nucleus
+ENCSR000CPC	Homo sapiens HepG2 nuclear fraction	HepG2	ENCFF202BOX	https://www.encodeproject.org/files/ENCFF202BOX/@@download/ENCFF202BOX.tsv	GRCh38	V29	nucleus
+ENCSR000CPC	Homo sapiens HepG2 nuclear fraction	HepG2	ENCFF618SOR	https://www.encodeproject.org/files/ENCFF618SOR/@@download/ENCFF618SOR.tsv	GRCh38	V29	nucleus
+ENCSR000CTS	Homo sapiens SK-N-SH nuclear fraction	SK-N-SH	ENCFF748ALF	https://www.encodeproject.org/files/ENCFF748ALF/@@download/ENCFF748ALF.tsv	GRCh38	V29	nucleus
+ENCSR000CTS	Homo sapiens SK-N-SH nuclear fraction	SK-N-SH	ENCFF216JTT	https://www.encodeproject.org/files/ENCFF216JTT/@@download/ENCFF216JTT.tsv	GRCh38	V29	nucleus
+ENCSR000CTS	Homo sapiens SK-N-SH nuclear fraction	SK-N-SH	ENCFF311CCK	https://www.encodeproject.org/files/ENCFF311CCK/@@download/ENCFF311CCK.tsv	GRCh38	V29	nucleus
+ENCSR000CTS	Homo sapiens SK-N-SH nuclear fraction	SK-N-SH	ENCFF352XAN	https://www.encodeproject.org/files/ENCFF352XAN/@@download/ENCFF352XAN.tsv	GRCh38	V29	nucleus
+ENCSR000COW	Homo sapiens H1 nuclear fraction	H1	ENCFF686NVQ	https://www.encodeproject.org/files/ENCFF686NVQ/@@download/ENCFF686NVQ.tsv	GRCh38	V29	nucleus
+ENCSR000COW	Homo sapiens H1 nuclear fraction	H1	ENCFF271NBH	https://www.encodeproject.org/files/ENCFF271NBH/@@download/ENCFF271NBH.tsv	GRCh38	V29	nucleus
+ENCSR000CTP	Homo sapiens IMR-90 nuclear fraction	IMR-90	ENCFF218PPI	https://www.encodeproject.org/files/ENCFF218PPI/@@download/ENCFF218PPI.tsv	GRCh38	V29	nucleus
+ENCSR000CTP	Homo sapiens IMR-90 nuclear fraction	IMR-90	ENCFF295JCI	https://www.encodeproject.org/files/ENCFF295JCI/@@download/ENCFF295JCI.tsv	GRCh38	V29	nucleus
+ENCSR000CTP	Homo sapiens IMR-90 nuclear fraction	IMR-90	ENCFF644LNA	https://www.encodeproject.org/files/ENCFF644LNA/@@download/ENCFF644LNA.tsv	GRCh38	V29	nucleus
+ENCSR000CTP	Homo sapiens IMR-90 nuclear fraction	IMR-90	ENCFF698PFJ	https://www.encodeproject.org/files/ENCFF698PFJ/@@download/ENCFF698PFJ.tsv	GRCh38	V29	nucleus
+ENCSR000CTO	Homo sapiens MCF-7 nuclear fraction	MCF-7	ENCFF380FPT	https://www.encodeproject.org/files/ENCFF380FPT/@@download/ENCFF380FPT.tsv	GRCh38	V29	nucleus
+ENCSR000CTO	Homo sapiens MCF-7 nuclear fraction	MCF-7	ENCFF033JVM	https://www.encodeproject.org/files/ENCFF033JVM/@@download/ENCFF033JVM.tsv	GRCh38	V29	nucleus
+ENCSR000CTO	Homo sapiens MCF-7 nuclear fraction	MCF-7	ENCFF786KJB	https://www.encodeproject.org/files/ENCFF786KJB/@@download/ENCFF786KJB.tsv	GRCh38	V29	nucleus
+ENCSR000CTO	Homo sapiens MCF-7 nuclear fraction	MCF-7	ENCFF684NPM	https://www.encodeproject.org/files/ENCFF684NPM/@@download/ENCFF684NPM.tsv	GRCh38	V29	nucleus
+ENCSR000CPQ	Homo sapiens HeLa-S3 nuclear fraction	HeLa-S3	ENCFF193AOY	https://www.encodeproject.org/files/ENCFF193AOY/@@download/ENCFF193AOY.tsv	GRCh38	V29	nucleus
+ENCSR000CPQ	Homo sapiens HeLa-S3 nuclear fraction	HeLa-S3	ENCFF262EJQ	https://www.encodeproject.org/files/ENCFF262EJQ/@@download/ENCFF262EJQ.tsv	GRCh38	V29	nucleus
+ENCSR000CPQ	Homo sapiens HeLa-S3 nuclear fraction	HeLa-S3	ENCFF689BFU	https://www.encodeproject.org/files/ENCFF689BFU/@@download/ENCFF689BFU.tsv	GRCh38	V29	nucleus
+ENCSR000CPQ	Homo sapiens HeLa-S3 nuclear fraction	HeLa-S3	ENCFF622TLZ	https://www.encodeproject.org/files/ENCFF622TLZ/@@download/ENCFF622TLZ.tsv	GRCh38	V29	nucleus
+ENCSR000CPJ	Homo sapiens keratinocyte nuclear fraction female	keratinocyte	ENCFF190WZF	https://www.encodeproject.org/files/ENCFF190WZF/@@download/ENCFF190WZF.tsv	GRCh38	V29	nucleus
+ENCSR000CPJ	Homo sapiens keratinocyte nuclear fraction female	keratinocyte	ENCFF779WJW	https://www.encodeproject.org/files/ENCFF779WJW/@@download/ENCFF779WJW.tsv	GRCh38	V29	nucleus
+ENCSR000CPJ	Homo sapiens keratinocyte nuclear fraction female	keratinocyte	ENCFF707RXJ	https://www.encodeproject.org/files/ENCFF707RXJ/@@download/ENCFF707RXJ.tsv	GRCh38	V29	nucleus
+ENCSR000CPJ	Homo sapiens keratinocyte nuclear fraction female	keratinocyte	ENCFF006SQI	https://www.encodeproject.org/files/ENCFF006SQI/@@download/ENCFF006SQI.tsv	GRCh38	V29	nucleus
+ENCSR000CPS	Homo sapiens K562 nuclear fraction	K562	ENCFF512VPW	https://www.encodeproject.org/files/ENCFF512VPW/@@download/ENCFF512VPW.tsv	GRCh38	V29	nucleus
+ENCSR000CPS	Homo sapiens K562 nuclear fraction	K562	ENCFF785XSE	https://www.encodeproject.org/files/ENCFF785XSE/@@download/ENCFF785XSE.tsv	GRCh38	V29	nucleus
+ENCSR000CPS	Homo sapiens K562 nuclear fraction	K562	ENCFF009WFT	https://www.encodeproject.org/files/ENCFF009WFT/@@download/ENCFF009WFT.tsv	GRCh38	V29	nucleus
+ENCSR000CPS	Homo sapiens K562 nuclear fraction	K562	ENCFF873PHU	https://www.encodeproject.org/files/ENCFF873PHU/@@download/ENCFF873PHU.tsv	GRCh38	V29	nucleus
+ENCSR000CTM	Homo sapiens A549 nuclear fraction	A549	ENCFF983QIB	https://www.encodeproject.org/files/ENCFF983QIB/@@download/ENCFF983QIB.tsv	GRCh38	V29	nucleus
+ENCSR000CTM	Homo sapiens A549 nuclear fraction	A549	ENCFF686EDQ	https://www.encodeproject.org/files/ENCFF686EDQ/@@download/ENCFF686EDQ.tsv	GRCh38	V29	nucleus
+ENCSR000CTM	Homo sapiens A549 nuclear fraction	A549	ENCFF941WTD	https://www.encodeproject.org/files/ENCFF941WTD/@@download/ENCFF941WTD.tsv	GRCh38	V29	nucleus
+ENCSR000CTM	Homo sapiens A549 nuclear fraction	A549	ENCFF632ALD	https://www.encodeproject.org/files/ENCFF632ALD/@@download/ENCFF632ALD.tsv	GRCh38	V29	nucleus
+ENCSR000CPB	Homo sapiens endothelial cell of umbilical vein nuclear fraction newborn	endothelial cell of umbilical vein	ENCFF170WEA	https://www.encodeproject.org/files/ENCFF170WEA/@@download/ENCFF170WEA.tsv	GRCh38	V29	nucleus
+ENCSR000CPB	Homo sapiens endothelial cell of umbilical vein nuclear fraction newborn	endothelial cell of umbilical vein	ENCFF115CCV	https://www.encodeproject.org/files/ENCFF115CCV/@@download/ENCFF115CCV.tsv	GRCh38	V29	nucleus
+ENCSR000CPB	Homo sapiens endothelial cell of umbilical vein nuclear fraction newborn	endothelial cell of umbilical vein	ENCFF979TFY	https://www.encodeproject.org/files/ENCFF979TFY/@@download/ENCFF979TFY.tsv	GRCh38	V29	nucleus
+ENCSR000CPB	Homo sapiens endothelial cell of umbilical vein nuclear fraction newborn	endothelial cell of umbilical vein	ENCFF176EST	https://www.encodeproject.org/files/ENCFF176EST/@@download/ENCFF176EST.tsv	GRCh38	V29	nucleus
+ENCSR255NYQ	Homo sapiens SK-N-DZ nuclear fraction	SK-N-DZ	ENCFF896WQC	https://www.encodeproject.org/files/ENCFF896WQC/@@download/ENCFF896WQC.tsv	GRCh38	V29	nucleus
+ENCSR255NYQ	Homo sapiens SK-N-DZ nuclear fraction	SK-N-DZ	ENCFF713BGU	https://www.encodeproject.org/files/ENCFF713BGU/@@download/ENCFF713BGU.tsv	GRCh38	V29	nucleus
+ENCSR255NYQ	Homo sapiens SK-N-DZ nuclear fraction	SK-N-DZ	ENCFF697YRZ	https://www.encodeproject.org/files/ENCFF697YRZ/@@download/ENCFF697YRZ.tsv	GRCh38	V29	nucleus
+ENCSR255NYQ	Homo sapiens SK-N-DZ nuclear fraction	SK-N-DZ	ENCFF228CRI	https://www.encodeproject.org/files/ENCFF228CRI/@@download/ENCFF228CRI.tsv	GRCh38	V29	nucleus
+ENCSR040YBR	Homo sapiens K562 nuclear fraction	K562	ENCFF147DBW	https://www.encodeproject.org/files/ENCFF147DBW/@@download/ENCFF147DBW.tsv	GRCh38	V29	nucleus
+ENCSR040YBR	Homo sapiens K562 nuclear fraction	K562	ENCFF878TEY	https://www.encodeproject.org/files/ENCFF878TEY/@@download/ENCFF878TEY.tsv	GRCh38	V29	nucleus
+ENCSR040YBR	Homo sapiens K562 nuclear fraction	K562	ENCFF471XJX	https://www.encodeproject.org/files/ENCFF471XJX/@@download/ENCFF471XJX.tsv	GRCh38	V29	nucleus
+ENCSR040YBR	Homo sapiens K562 nuclear fraction	K562	ENCFF473JQC	https://www.encodeproject.org/files/ENCFF473JQC/@@download/ENCFF473JQC.tsv	GRCh38	V29	nucleus
+ENCSR201WVA	Homo sapiens SK-MEL-5 nuclear fraction	SK-MEL-5	ENCFF985ILR	https://www.encodeproject.org/files/ENCFF985ILR/@@download/ENCFF985ILR.tsv	GRCh38	V29	nucleus
+ENCSR201WVA	Homo sapiens SK-MEL-5 nuclear fraction	SK-MEL-5	ENCFF204FBW	https://www.encodeproject.org/files/ENCFF204FBW/@@download/ENCFF204FBW.tsv	GRCh38	V29	nucleus
+ENCSR201WVA	Homo sapiens SK-MEL-5 nuclear fraction	SK-MEL-5	ENCFF654ZRX	https://www.encodeproject.org/files/ENCFF654ZRX/@@download/ENCFF654ZRX.tsv	GRCh38	V29	nucleus
+ENCSR201WVA	Homo sapiens SK-MEL-5 nuclear fraction	SK-MEL-5	ENCFF217NWX	https://www.encodeproject.org/files/ENCFF217NWX/@@download/ENCFF217NWX.tsv	GRCh38	V29	nucleus
+ENCSR625QJI	Homo sapiens NCI-H460 nuclear fraction	NCI-H460	ENCFF478XOX	https://www.encodeproject.org/files/ENCFF478XOX/@@download/ENCFF478XOX.tsv	GRCh38	V29	nucleus
+ENCSR625QJI	Homo sapiens NCI-H460 nuclear fraction	NCI-H460	ENCFF660QFP	https://www.encodeproject.org/files/ENCFF660QFP/@@download/ENCFF660QFP.tsv	GRCh38	V29	nucleus
+ENCSR625QJI	Homo sapiens NCI-H460 nuclear fraction	NCI-H460	ENCFF494TYI	https://www.encodeproject.org/files/ENCFF494TYI/@@download/ENCFF494TYI.tsv	GRCh38	V29	nucleus
+ENCSR625QJI	Homo sapiens NCI-H460 nuclear fraction	NCI-H460	ENCFF518RUS	https://www.encodeproject.org/files/ENCFF518RUS/@@download/ENCFF518RUS.tsv	GRCh38	V29	nucleus
+ENCSR291DJH	Homo sapiens SK-MEL-5 cytosolic fraction	SK-MEL-5	ENCFF319WZH	https://www.encodeproject.org/files/ENCFF319WZH/@@download/ENCFF319WZH.tsv	GRCh38	V29	cytoplasm
+ENCSR291DJH	Homo sapiens SK-MEL-5 cytosolic fraction	SK-MEL-5	ENCFF390GJI	https://www.encodeproject.org/files/ENCFF390GJI/@@download/ENCFF390GJI.tsv	GRCh38	V29	cytoplasm
+ENCSR291DJH	Homo sapiens SK-MEL-5 cytosolic fraction	SK-MEL-5	ENCFF276JHG	https://www.encodeproject.org/files/ENCFF276JHG/@@download/ENCFF276JHG.tsv	GRCh38	V29	cytoplasm
+ENCSR291DJH	Homo sapiens SK-MEL-5 cytosolic fraction	SK-MEL-5	ENCFF696WYK	https://www.encodeproject.org/files/ENCFF696WYK/@@download/ENCFF696WYK.tsv	GRCh38	V29	cytoplasm
+ENCSR862HPO	Homo sapiens HepG2 cytosolic fraction	HepG2	ENCFF431DIC	https://www.encodeproject.org/files/ENCFF431DIC/@@download/ENCFF431DIC.tsv	GRCh38	V29	cytoplasm
+ENCSR862HPO	Homo sapiens HepG2 cytosolic fraction	HepG2	ENCFF884WBB	https://www.encodeproject.org/files/ENCFF884WBB/@@download/ENCFF884WBB.tsv	GRCh38	V29	cytoplasm
+ENCSR862HPO	Homo sapiens HepG2 cytosolic fraction	HepG2	ENCFF396QXN	https://www.encodeproject.org/files/ENCFF396QXN/@@download/ENCFF396QXN.tsv	GRCh38	V29	cytoplasm
+ENCSR862HPO	Homo sapiens HepG2 cytosolic fraction	HepG2	ENCFF777NCD	https://www.encodeproject.org/files/ENCFF777NCD/@@download/ENCFF777NCD.tsv	GRCh38	V29	cytoplasm
+ENCSR000CTU	Homo sapiens MCF-7 cytosolic fraction	MCF-7	ENCFF139IKH	https://www.encodeproject.org/files/ENCFF139IKH/@@download/ENCFF139IKH.tsv	GRCh38	V29	cytoplasm
+ENCSR000CTU	Homo sapiens MCF-7 cytosolic fraction	MCF-7	ENCFF582LLS	https://www.encodeproject.org/files/ENCFF582LLS/@@download/ENCFF582LLS.tsv	GRCh38	V29	cytoplasm
+ENCSR000CTU	Homo sapiens MCF-7 cytosolic fraction	MCF-7	ENCFF795OCU	https://www.encodeproject.org/files/ENCFF795OCU/@@download/ENCFF795OCU.tsv	GRCh38	V29	cytoplasm
+ENCSR000CTU	Homo sapiens MCF-7 cytosolic fraction	MCF-7	ENCFF999HBM	https://www.encodeproject.org/files/ENCFF999HBM/@@download/ENCFF999HBM.tsv	GRCh38	V29	cytoplasm
+ENCSR000CPF	Homo sapiens HepG2 cytosolic fraction	HepG2	ENCFF068NAV	https://www.encodeproject.org/files/ENCFF068NAV/@@download/ENCFF068NAV.tsv	GRCh38	V29	cytoplasm
+ENCSR000CPF	Homo sapiens HepG2 cytosolic fraction	HepG2	ENCFF301KCL	https://www.encodeproject.org/files/ENCFF301KCL/@@download/ENCFF301KCL.tsv	GRCh38	V29	cytoplasm
+ENCSR000CPF	Homo sapiens HepG2 cytosolic fraction	HepG2	ENCFF454MXM	https://www.encodeproject.org/files/ENCFF454MXM/@@download/ENCFF454MXM.tsv	GRCh38	V29	cytoplasm
+ENCSR000CPF	Homo sapiens HepG2 cytosolic fraction	HepG2	ENCFF617CLP	https://www.encodeproject.org/files/ENCFF617CLP/@@download/ENCFF617CLP.tsv	GRCh38	V29	cytoplasm
+ENCSR860DWK	Homo sapiens K562 cytosolic fraction	K562	ENCFF804UQC	https://www.encodeproject.org/files/ENCFF804UQC/@@download/ENCFF804UQC.tsv	GRCh38	V29	cytoplasm
+ENCSR860DWK	Homo sapiens K562 cytosolic fraction	K562	ENCFF118ARA	https://www.encodeproject.org/files/ENCFF118ARA/@@download/ENCFF118ARA.tsv	GRCh38	V29	cytoplasm
+ENCSR860DWK	Homo sapiens K562 cytosolic fraction	K562	ENCFF137SMH	https://www.encodeproject.org/files/ENCFF137SMH/@@download/ENCFF137SMH.tsv	GRCh38	V29	cytoplasm
+ENCSR860DWK	Homo sapiens K562 cytosolic fraction	K562	ENCFF661NYS	https://www.encodeproject.org/files/ENCFF661NYS/@@download/ENCFF661NYS.tsv	GRCh38	V29	cytoplasm
+ENCSR166QLP	Homo sapiens HT1080 cytosolic fraction	HT1080	ENCFF846SDA	https://www.encodeproject.org/files/ENCFF846SDA/@@download/ENCFF846SDA.tsv	GRCh38	V29	cytoplasm
+ENCSR166QLP	Homo sapiens HT1080 cytosolic fraction	HT1080	ENCFF756ESX	https://www.encodeproject.org/files/ENCFF756ESX/@@download/ENCFF756ESX.tsv	GRCh38	V29	cytoplasm
+ENCSR166QLP	Homo sapiens HT1080 cytosolic fraction	HT1080	ENCFF243RFI	https://www.encodeproject.org/files/ENCFF243RFI/@@download/ENCFF243RFI.tsv	GRCh38	V29	cytoplasm
+ENCSR166QLP	Homo sapiens HT1080 cytosolic fraction	HT1080	ENCFF463PWR	https://www.encodeproject.org/files/ENCFF463PWR/@@download/ENCFF463PWR.tsv	GRCh38	V29	cytoplasm
+ENCSR569JKX	Homo sapiens SK-N-DZ cytosolic fraction	SK-N-DZ	ENCFF940XGU	https://www.encodeproject.org/files/ENCFF940XGU/@@download/ENCFF940XGU.tsv	GRCh38	V29	cytoplasm
+ENCSR569JKX	Homo sapiens SK-N-DZ cytosolic fraction	SK-N-DZ	ENCFF064UTA	https://www.encodeproject.org/files/ENCFF064UTA/@@download/ENCFF064UTA.tsv	GRCh38	V29	cytoplasm
+ENCSR569JKX	Homo sapiens SK-N-DZ cytosolic fraction	SK-N-DZ	ENCFF540GFA	https://www.encodeproject.org/files/ENCFF540GFA/@@download/ENCFF540GFA.tsv	GRCh38	V29	cytoplasm
+ENCSR569JKX	Homo sapiens SK-N-DZ cytosolic fraction	SK-N-DZ	ENCFF239EOI	https://www.encodeproject.org/files/ENCFF239EOI/@@download/ENCFF239EOI.tsv	GRCh38	V29	cytoplasm
+ENCSR931WGT	Homo sapiens HepG2 cytosolic fraction	HepG2	ENCFF410HHZ	https://www.encodeproject.org/files/ENCFF410HHZ/@@download/ENCFF410HHZ.tsv	GRCh38	V29	cytoplasm
+ENCSR931WGT	Homo sapiens HepG2 cytosolic fraction	HepG2	ENCFF917QOG	https://www.encodeproject.org/files/ENCFF917QOG/@@download/ENCFF917QOG.tsv	GRCh38	V29	cytoplasm
+ENCSR931WGT	Homo sapiens HepG2 cytosolic fraction	HepG2	ENCFF673RIE	https://www.encodeproject.org/files/ENCFF673RIE/@@download/ENCFF673RIE.tsv	GRCh38	V29	cytoplasm
+ENCSR931WGT	Homo sapiens HepG2 cytosolic fraction	HepG2	ENCFF484DWH	https://www.encodeproject.org/files/ENCFF484DWH/@@download/ENCFF484DWH.tsv	GRCh38	V29	cytoplasm
+ENCSR000CTN	Homo sapiens IMR-90 cytosolic fraction	IMR-90	ENCFF811OLC	https://www.encodeproject.org/files/ENCFF811OLC/@@download/ENCFF811OLC.tsv	GRCh38	V29	cytoplasm
+ENCSR000CTN	Homo sapiens IMR-90 cytosolic fraction	IMR-90	ENCFF779TFQ	https://www.encodeproject.org/files/ENCFF779TFQ/@@download/ENCFF779TFQ.tsv	GRCh38	V29	cytoplasm
+ENCSR000CTN	Homo sapiens IMR-90 cytosolic fraction	IMR-90	ENCFF104IQF	https://www.encodeproject.org/files/ENCFF104IQF/@@download/ENCFF104IQF.tsv	GRCh38	V29	cytoplasm
+ENCSR000CTN	Homo sapiens IMR-90 cytosolic fraction	IMR-90	ENCFF593JFS	https://www.encodeproject.org/files/ENCFF593JFS/@@download/ENCFF593JFS.tsv	GRCh38	V29	cytoplasm
+ENCSR000COR	Homo sapiens GM12878 cytosolic fraction	GM12878	ENCFF212FAD	https://www.encodeproject.org/files/ENCFF212FAD/@@download/ENCFF212FAD.tsv	GRCh38	V29	cytoplasm
+ENCSR000COR	Homo sapiens GM12878 cytosolic fraction	GM12878	ENCFF897DXD	https://www.encodeproject.org/files/ENCFF897DXD/@@download/ENCFF897DXD.tsv	GRCh38	V29	cytoplasm
+ENCSR000COR	Homo sapiens GM12878 cytosolic fraction	GM12878	ENCFF613EYA	https://www.encodeproject.org/files/ENCFF613EYA/@@download/ENCFF613EYA.tsv	GRCh38	V29	cytoplasm
+ENCSR000COR	Homo sapiens GM12878 cytosolic fraction	GM12878	ENCFF862MNY	https://www.encodeproject.org/files/ENCFF862MNY/@@download/ENCFF862MNY.tsv	GRCh38	V29	cytoplasm
+ENCSR000CTL	Homo sapiens A549 cytosolic fraction	A549	ENCFF969FMY	https://www.encodeproject.org/files/ENCFF969FMY/@@download/ENCFF969FMY.tsv	GRCh38	V29	cytoplasm
+ENCSR000CTL	Homo sapiens A549 cytosolic fraction	A549	ENCFF360QYU	https://www.encodeproject.org/files/ENCFF360QYU/@@download/ENCFF360QYU.tsv	GRCh38	V29	cytoplasm
+ENCSR000CTL	Homo sapiens A549 cytosolic fraction	A549	ENCFF472PUV	https://www.encodeproject.org/files/ENCFF472PUV/@@download/ENCFF472PUV.tsv	GRCh38	V29	cytoplasm
+ENCSR000CTL	Homo sapiens A549 cytosolic fraction	A549	ENCFF098TQL	https://www.encodeproject.org/files/ENCFF098TQL/@@download/ENCFF098TQL.tsv	GRCh38	V29	cytoplasm
+ENCSR000COV	Homo sapiens H1 cytosolic fraction	H1	ENCFF127RBU	https://www.encodeproject.org/files/ENCFF127RBU/@@download/ENCFF127RBU.tsv	GRCh38	V29	cytoplasm
+ENCSR000COV	Homo sapiens H1 cytosolic fraction	H1	ENCFF700JEL	https://www.encodeproject.org/files/ENCFF700JEL/@@download/ENCFF700JEL.tsv	GRCh38	V29	cytoplasm
+ENCSR000CPP	Homo sapiens HeLa-S3 cytosolic fraction	HeLa-S3	ENCFF602JOV	https://www.encodeproject.org/files/ENCFF602JOV/@@download/ENCFF602JOV.tsv	GRCh38	V29	cytoplasm
+ENCSR000CPP	Homo sapiens HeLa-S3 cytosolic fraction	HeLa-S3	ENCFF798GHN	https://www.encodeproject.org/files/ENCFF798GHN/@@download/ENCFF798GHN.tsv	GRCh38	V29	cytoplasm
+ENCSR000CPP	Homo sapiens HeLa-S3 cytosolic fraction	HeLa-S3	ENCFF045VLJ	https://www.encodeproject.org/files/ENCFF045VLJ/@@download/ENCFF045VLJ.tsv	GRCh38	V29	cytoplasm
+ENCSR000CPP	Homo sapiens HeLa-S3 cytosolic fraction	HeLa-S3	ENCFF953SET	https://www.encodeproject.org/files/ENCFF953SET/@@download/ENCFF953SET.tsv	GRCh38	V29	cytoplasm
+ENCSR000CTR	Homo sapiens SK-N-SH cytosolic fraction	SK-N-SH	ENCFF981MIW	https://www.encodeproject.org/files/ENCFF981MIW/@@download/ENCFF981MIW.tsv	GRCh38	V29	cytoplasm
+ENCSR000CTR	Homo sapiens SK-N-SH cytosolic fraction	SK-N-SH	ENCFF403DFQ	https://www.encodeproject.org/files/ENCFF403DFQ/@@download/ENCFF403DFQ.tsv	GRCh38	V29	cytoplasm
+ENCSR000CTR	Homo sapiens SK-N-SH cytosolic fraction	SK-N-SH	ENCFF848UQF	https://www.encodeproject.org/files/ENCFF848UQF/@@download/ENCFF848UQF.tsv	GRCh38	V29	cytoplasm
+ENCSR000CTR	Homo sapiens SK-N-SH cytosolic fraction	SK-N-SH	ENCFF776FCW	https://www.encodeproject.org/files/ENCFF776FCW/@@download/ENCFF776FCW.tsv	GRCh38	V29	cytoplasm
+ENCSR000CPK	Homo sapiens keratinocyte cytosolic fraction female	keratinocyte	ENCFF232BEL	https://www.encodeproject.org/files/ENCFF232BEL/@@download/ENCFF232BEL.tsv	GRCh38	V29	cytoplasm
+ENCSR000CPK	Homo sapiens keratinocyte cytosolic fraction female	keratinocyte	ENCFF485BUY	https://www.encodeproject.org/files/ENCFF485BUY/@@download/ENCFF485BUY.tsv	GRCh38	V29	cytoplasm
+ENCSR000CPK	Homo sapiens keratinocyte cytosolic fraction female	keratinocyte	ENCFF328QYM	https://www.encodeproject.org/files/ENCFF328QYM/@@download/ENCFF328QYM.tsv	GRCh38	V29	cytoplasm
+ENCSR000CPK	Homo sapiens keratinocyte cytosolic fraction female	keratinocyte	ENCFF749RLI	https://www.encodeproject.org/files/ENCFF749RLI/@@download/ENCFF749RLI.tsv	GRCh38	V29	cytoplasm
+ENCSR000CPA	Homo sapiens endothelial cell of umbilical vein cytosolic fraction newborn	endothelial cell of umbilical vein	ENCFF931ZVL	https://www.encodeproject.org/files/ENCFF931ZVL/@@download/ENCFF931ZVL.tsv	GRCh38	V29	cytoplasm
+ENCSR000CPA	Homo sapiens endothelial cell of umbilical vein cytosolic fraction newborn	endothelial cell of umbilical vein	ENCFF837TER	https://www.encodeproject.org/files/ENCFF837TER/@@download/ENCFF837TER.tsv	GRCh38	V29	cytoplasm
+ENCSR000CPA	Homo sapiens endothelial cell of umbilical vein cytosolic fraction newborn	endothelial cell of umbilical vein	ENCFF349GKJ	https://www.encodeproject.org/files/ENCFF349GKJ/@@download/ENCFF349GKJ.tsv	GRCh38	V29	cytoplasm
+ENCSR000CPA	Homo sapiens endothelial cell of umbilical vein cytosolic fraction newborn	endothelial cell of umbilical vein	ENCFF188LTD	https://www.encodeproject.org/files/ENCFF188LTD/@@download/ENCFF188LTD.tsv	GRCh38	V29	cytoplasm
+ENCSR000COK	Homo sapiens K562 cytosolic fraction	K562	ENCFF617IZX	https://www.encodeproject.org/files/ENCFF617IZX/@@download/ENCFF617IZX.tsv	GRCh38	V29	cytoplasm
+ENCSR000COK	Homo sapiens K562 cytosolic fraction	K562	ENCFF978TLD	https://www.encodeproject.org/files/ENCFF978TLD/@@download/ENCFF978TLD.tsv	GRCh38	V29	cytoplasm
+ENCSR000COK	Homo sapiens K562 cytosolic fraction	K562	ENCFF024EIQ	https://www.encodeproject.org/files/ENCFF024EIQ/@@download/ENCFF024EIQ.tsv	GRCh38	V29	cytoplasm
+ENCSR000COK	Homo sapiens K562 cytosolic fraction	K562	ENCFF505OOJ	https://www.encodeproject.org/files/ENCFF505OOJ/@@download/ENCFF505OOJ.tsv	GRCh38	V29	cytoplasm
+ENCSR586SEE	Homo sapiens NCI-H460 cytosolic fraction	NCI-H460	ENCFF968RHT	https://www.encodeproject.org/files/ENCFF968RHT/@@download/ENCFF968RHT.tsv	GRCh38	V29	cytoplasm
+ENCSR586SEE	Homo sapiens NCI-H460 cytosolic fraction	NCI-H460	ENCFF260VDZ	https://www.encodeproject.org/files/ENCFF260VDZ/@@download/ENCFF260VDZ.tsv	GRCh38	V29	cytoplasm
+ENCSR384ZXD	Homo sapiens K562 cytosolic fraction	K562	ENCFF523KJW	https://www.encodeproject.org/files/ENCFF523KJW/@@download/ENCFF523KJW.tsv	GRCh38	V29	cytoplasm
+ENCSR384ZXD	Homo sapiens K562 cytosolic fraction	K562	ENCFF707OXP	https://www.encodeproject.org/files/ENCFF707OXP/@@download/ENCFF707OXP.tsv	GRCh38	V29	cytoplasm
+ENCSR384ZXD	Homo sapiens K562 cytosolic fraction	K562	ENCFF873EVE	https://www.encodeproject.org/files/ENCFF873EVE/@@download/ENCFF873EVE.tsv	GRCh38	V29	cytoplasm
+ENCSR384ZXD	Homo sapiens K562 cytosolic fraction	K562	ENCFF758FUJ	https://www.encodeproject.org/files/ENCFF758FUJ/@@download/ENCFF758FUJ.tsv	GRCh38	V29	cytoplasm

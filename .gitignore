@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.DS_Store
+data/raw/*
+!data/raw/encode_manifest.tsv
+*.bam
+*.fastq.gz
